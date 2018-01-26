@@ -9,3 +9,14 @@ C:\Users\GERMAN\Desktop\pymasa\pymasa\pymasa\obj\Debug\pymasa.exe
 C:\Users\GERMAN\Desktop\pymasa\pymasa\pymasa\obj\Debug\pymasa.pdb
 C:\Users\GERMAN\Desktop\pymasa\pymasa\pymasa\obj\Debug\pymasa.AdmEmpleado.resources
 C:\Users\GERMAN\Desktop\pymasa\pymasa\pymasa\obj\Debug\pymasa.Inicio.resources
+C:\Users\GERMAN\Documents\GitHub\pymasa\pymasa\pymasa\bin\Debug\pymasa.exe.config
+C:\Users\GERMAN\Documents\GitHub\pymasa\pymasa\pymasa\bin\Debug\pymasa.exe
+C:\Users\GERMAN\Documents\GitHub\pymasa\pymasa\pymasa\bin\Debug\pymasa.pdb
+C:\Users\GERMAN\Documents\GitHub\pymasa\pymasa\pymasa\obj\Debug\pymasa.csprojResolveAssemblyReference.cache
+C:\Users\GERMAN\Documents\GitHub\pymasa\pymasa\pymasa\obj\Debug\pymasa.AdmEmpleado.resources
+C:\Users\GERMAN\Documents\GitHub\pymasa\pymasa\pymasa\obj\Debug\pymasa.Inicio.resources
+C:\Users\GERMAN\Documents\GitHub\pymasa\pymasa\pymasa\obj\Debug\pymasa.Properties.Resources.resources
+C:\Users\GERMAN\Documents\GitHub\pymasa\pymasa\pymasa\obj\Debug\pymasa.csproj.GenerateResource.Cache
+C:\Users\GERMAN\Documents\GitHub\pymasa\pymasa\pymasa\obj\Debug\pymasa.csproj.CoreCompileInputs.cache
+C:\Users\GERMAN\Documents\GitHub\pymasa\pymasa\pymasa\obj\Debug\pymasa.exe
+C:\Users\GERMAN\Documents\GitHub\pymasa\pymasa\pymasa\obj\Debug\pymasa.pdb

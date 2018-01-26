@@ -91,7 +91,7 @@
             this.Cmd_eliminar.Name = "Cmd_eliminar";
             this.Cmd_eliminar.Size = new System.Drawing.Size(82, 25);
             this.Cmd_eliminar.TabIndex = 2;
-            this.Cmd_eliminar.Text = "Eliminar";
+            this.Cmd_eliminar.Text = "&Eliminar";
             this.Cmd_eliminar.UseVisualStyleBackColor = true;
             this.Cmd_eliminar.Click += new System.EventHandler(this.Cmd_eliminar_Click);
             // 
@@ -103,7 +103,7 @@
             this.Cmd_modificar.Name = "Cmd_modificar";
             this.Cmd_modificar.Size = new System.Drawing.Size(87, 25);
             this.Cmd_modificar.TabIndex = 1;
-            this.Cmd_modificar.Text = "Modificar";
+            this.Cmd_modificar.Text = "&Modificar";
             this.Cmd_modificar.UseVisualStyleBackColor = true;
             this.Cmd_modificar.Click += new System.EventHandler(this.Cmd_modificar_Click);
             // 
@@ -115,18 +115,18 @@
             this.Cmd_nuevo.Name = "Cmd_nuevo";
             this.Cmd_nuevo.Size = new System.Drawing.Size(82, 25);
             this.Cmd_nuevo.TabIndex = 0;
-            this.Cmd_nuevo.Text = "Nuevo";
+            this.Cmd_nuevo.Text = "&Nuevo";
             this.Cmd_nuevo.UseVisualStyleBackColor = true;
             this.Cmd_nuevo.Click += new System.EventHandler(this.Cmd_nuevo_Click);
             // 
-            // Form1
+            // Inicio
             // 
             this.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
             this.ClientSize = new System.Drawing.Size(844, 515);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.dgv);
-            this.Name = "Form1";
+            this.Name = "Inicio";
             this.Load += new System.EventHandler(this.Form1_Load_1);
             ((System.ComponentModel.ISupportInitialize)(this.dgv)).EndInit();
             this.groupBox1.ResumeLayout(false);

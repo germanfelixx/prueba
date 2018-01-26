@@ -192,7 +192,7 @@
             this.CMD_guardar.Name = "CMD_guardar";
             this.CMD_guardar.Size = new System.Drawing.Size(121, 42);
             this.CMD_guardar.TabIndex = 13;
-            this.CMD_guardar.Text = "Guardar";
+            this.CMD_guardar.Text = "&Guardar";
             this.CMD_guardar.UseVisualStyleBackColor = true;
             this.CMD_guardar.Click += new System.EventHandler(this.CMD_guardar_Click);
             // 
@@ -212,7 +212,7 @@
             this.CMD_cancelar.Name = "CMD_cancelar";
             this.CMD_cancelar.Size = new System.Drawing.Size(121, 42);
             this.CMD_cancelar.TabIndex = 16;
-            this.CMD_cancelar.Text = "Cancelar";
+            this.CMD_cancelar.Text = "&Cancelar";
             this.CMD_cancelar.UseVisualStyleBackColor = true;
             this.CMD_cancelar.Click += new System.EventHandler(this.CMD_cancelar_Click_1);
             // 
